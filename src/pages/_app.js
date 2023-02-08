@@ -1,5 +1,6 @@
 import "@/styles/globals.css";
 import { Lato } from "@next/font/google";
+import "normalize.css/normalize.css";
 
 const lato = Lato({
   weight: ["400", "700", "900"],

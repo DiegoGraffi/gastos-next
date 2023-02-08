@@ -9,11 +9,11 @@ import {
 import "react-swipeable-list/dist/styles.css";
 import { formatearFecha } from "../helpers";
 import IconoCasa from "../img/icono-casa.svg";
-import IconoComida from "../img/icono-comida.svg";
+import IconoComida from "@/img/icono-comida.svg";
 import IconoOcio from "@/img/icono-ocio.svg";
-import IconoRopa from "../img/icono-ropa.svg";
-import IconoTransporte from "../img/icono-transporte.svg";
-import IconoViajes from "../img/icono-viajes.svg";
+import IconoRopa from "@/img/icono-ropa.svg";
+import IconoTransporte from "@/img/icono-transporte.svg";
+import IconoViajes from "@/img/icono-viajes.svg";
 
 const diccionarioIconos = {
   casa: IconoCasa,
